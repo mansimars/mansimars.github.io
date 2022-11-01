@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-01T16:33:26-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My-Website</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/11/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-11-01T15:53:55-05:00</published><updated>2022-11-01T15:53:55-05:00</updated><id>http://localhost:4000/jekyll/update/2022/11/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-01T18:24:44-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My-Website</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/11/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-11-01T15:53:55-05:00</published><updated>2022-11-01T15:53:55-05:00</updated><id>http://localhost:4000/jekyll/update/2022/11/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -78,17 +78,21 @@ You can install the specific Ruby installer depending on the operating system.</
 Once the Ruby is installed, install Jekyll by typing <code class="language-plaintext highlighter-rouge">gem install jekyll bundler</code>. <br />
 You can also get more detailed Jekyll installation steps by following this <a href="https://jekyllrb.com/docs/">link</a>.</p>
   </li>
-  <li><strong>Create Jekyll site</strong>
-Type the following commands in the command prompt:
+  <li>
+    <p><strong>Create Jekyll site</strong> <br />
+Type the following commands in the command prompt:</p>
     <ul>
       <li>Create Jekyll site: <code class="language-plaintext highlighter-rouge">jekyll new [myblog]</code></li>
       <li>Change to the specific directory: <code class="language-plaintext highlighter-rouge">cd [myblog]</code></li>
       <li>Building and making a site available on local server: <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code></li>
-      <li>You can check the website at <a href="http://localhost:4000">http://localhost:4000</a>
-        <h4 id="more-resources"><strong>More Resources</strong></h4>
-      </li>
+      <li>You can check the website at <a href="http://localhost:4000">http://localhost:4000</a></li>
     </ul>
   </li>
+</ol>
+
+<p><img src="/giffy.gif" alt="Resume" /></p>
+<h4 id="more-resources"><strong>More Resources</strong></h4>
+<ol>
   <li><a href="https://learnxinyminutes.com/docs/markdown/">Markdown Tutorial</a></li>
   <li><a href="https://www.goodreads.com/author/show/14827025.Andrew_Etter">Etter’s Book</a></li>
   <li><a href="https://education.github.com/git-cheat-sheet-education.pdf">Git Cheat Sheet</a></li>
@@ -117,80 +121,4 @@ processor?</p>
 <p>Can I use any other static site generator? Can you recommend some?</p>
 <blockquote>
   <p>Yes, you can use other static site generators. Hugo, Gridsome, Eleventy, Pelican are also good static site generator that can help you to host a profile.</p>
-</blockquote>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Host an online resume and README]]></summary></entry><entry><title type="html">Resume</title><link href="http://localhost:4000/jekyll/update/2022/11/01/resume.html" rel="alternate" type="text/html" title="Resume" /><published>2022-11-01T15:02:18-05:00</published><updated>2022-11-01T15:02:18-05:00</updated><id>http://localhost:4000/jekyll/update/2022/11/01/resume</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/01/resume.html"><![CDATA[<h2 id="mansimar-singh-bhasin"><strong>Mansimar Singh Bhasin</strong></h2>
-<p>999-999-9999                    <br />
-mansimars00@gmail.com <br />
-<a href="github.com/mansimars">github.com/mansimars</a> <br />
-<a href="linkedin.com/mansimars">linkedin.com/mansimars</a></p>
-
-<h3 id="education"><strong>EDUCATION</strong></h3>
-<hr />
-<p><strong>Bachelor of Science - Computer Science Major</strong> <br />
-University of Manitoba | 2019-2022</p>
-
-<h3 id="technical-skills"><strong>TECHNICAL SKILLS</strong></h3>
-<hr />
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">Programming Languages</th>
-      <th style="text-align: left">Tools and Technologies</th>
-      <th style="text-align: left">Frameworks and Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Java</td>
-      <td style="text-align: left">Git</td>
-      <td style="text-align: left">JQuery</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">C++</td>
-      <td style="text-align: left">AWS</td>
-      <td style="text-align: left">Angular.js</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">C</td>
-      <td style="text-align: left">MySQL</td>
-      <td style="text-align: left">Node.js</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">JavaScript</td>
-      <td style="text-align: left">Android Studio</td>
-      <td style="text-align: left">Bootstrap</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="work-experience"><strong>WORK EXPERIENCE</strong></h3>
-<hr />
-
-<blockquote>
-  <p><strong>Student Researcher</strong>    <em>Modern Era Convent, New Delhi, DL</em> <br />
-Apr 2018-July 2018</p>
-  <ul>
-    <li>Gathered and synthesized survey data for a study on health-related problems about the consumption of junk food.</li>
-    <li>Recorded the data using different software (MS Office, Excel, spread sheets) and made charts, graphs accordingly to keep track of it.</li>
-    <li>Experimented on the assumptions made.</li>
-    <li>Presented research findings and article reviews independently.</li>
-  </ul>
-</blockquote>
-
-<blockquote>
-  <p><strong>Sales Associate</strong>    <em>Vijay Sales, New Delhi, DL</em> <br />
-Oct 2017 - Jan 2018</p>
-  <ul>
-    <li>Educated customers on product and service offerings.</li>
-    <li>Provided services to customers under minimal supervision.</li>
-    <li>Provided services to multiple customers by paying close attention to customers questions and needs.</li>
-  </ul>
-</blockquote>
-
-<h3 id="references"><strong>REFERENCES</strong></h3>
-<hr />
-
-<ul>
-  <li>Jose Bell - bellj23@gmail.com</li>
-  <li>Ryan Livingstone - lryan@gmail.com</li>
-</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Mansimar Singh Bhasin 999-999-9999 mansimars00@gmail.com github.com/mansimars linkedin.com/mansimars]]></summary></entry></feed>
+</blockquote>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Host an online resume and README]]></summary></entry></feed>
