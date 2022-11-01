@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title:  "Resume"
 date:   2022-11-01 15:02:18 -0500
 categories: jekyll update
