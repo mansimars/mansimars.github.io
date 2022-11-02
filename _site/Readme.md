@@ -15,12 +15,17 @@ We will also learn the general principles of current Technical Writing, as expla
 
 ## Instructions 
 -----------------
+### **Markdown: Lightweight Markup Language**
+>   Markdown is one of the best Lightweight markup language as it has the cleanest syntax incredible and infuriating, wonderful and maddening. Markdown does not have any defined standard and has limited set of features.[^1]
+>
+> For more broad compatibility, we can use "vanilla" Markdown syntax but we cannot use the tables and denced code blocks in vanilla Markdown syntax. We can also change to a different flavour but we would need to make some changes to source files according to the new flavour.[^2]
+
 ### **Use Distributed Version Control** 
-> According to Etter's book, Distributed version control system (DVCS) allows us to work offline and have comparatively better performance. It also helps to work concurrently on the same set of files. All developers prefer using DVCS so it would be beneficial for the technical writers to use distributed version control system to work on documentations.
+> Distributed version control system (DVCS) allows us to work offline and have comparatively better performance. It also helps to work concurrently on the same set of files. All developers prefer using DVCS so it would be beneficial for the technical writers to use distributed version control system to work on documentations.[^3]
 >
 > In addition to that, we do not need to to use ```git reflog``` if we are using DVCS for documentation purposes. 
 >
-> There are some benefits of storing documentation in the same repository of the souce code.
+> There are some benefits of storing documentation in the same repository of the souce code.[^4]
 > * The code and the documentation branches stay in sync.
 > * New developers have more probability to contribute as new developers do not need to clone a separate repository.
 1. Go to [GitHub](https://github.com/) and create a new repository by clicking on *New* from the top-left of the screen.
@@ -44,11 +49,11 @@ We will also learn the general principles of current Technical Writing, as expla
 
 
 ### **Make Static Websites**
-> According to Etter's book, Static websites are simple, secure, fast and portable. Static websites does not have server-side application dependencies so need to rely to databases and don't need to install anything. Thus, we can migrate the entire websites easily. We can also host it on Amazon S3 and Github Pages.
+> Static websites are simple, secure, fast and portable. Static websites does not have server-side application dependencies so need to rely to databases and don't need to install anything. Thus, we can migrate the entire websites easily. We can also host it on Amazon S3 and Github Pages.[^5]
 >
-> Not only that, we can test the static websites on our local machine without installing anything. Static websites are secure as there is nothing to crash if someone tries to hack it.
+> Not only that, we can test the static websites on our local machine without installing anything. Static websites are secure as there is nothing to crash if someone tries to hack it.[^5]
 >
-> We can use generators to make complex websites. We need to provide with content and a theme to make a complex website. 
+> We can use generators to make complex websites. We need to provide with content and a theme to make a complex website. [^5]
 1. **Install Ruby**  \
 Download and Install Ruby to your local machine using this [link](https://www.ruby-lang.org/en/documentation/installation/). \
 You can install the specific Ruby installer depending on the operating system.
@@ -107,3 +112,9 @@ processor?
 Can I use any other static site generator? Can you recommend some? 
 > Yes, you can use other static site generators. Hugo, Gridsome, Eleventy, Pelican are also good static site generator that can help you to host a profile.
 
+[^1]: Andrew Etter's *Modern Technical Writing*., p. 20
+[^2]: Andrew Etter's *Modern Technical Writing*., p. 21
+[^3]: Andrew Etter's *Modern Technical Writing*., p. 23
+[^4]: Andrew Etter's *Modern Technical Writing*., p. 24
+[^5]: Andrew Etter's *Modern Technical Writing*., p. 26
+[^6]: Andrew Etter's *Modern Technical Writing*., p. 33
