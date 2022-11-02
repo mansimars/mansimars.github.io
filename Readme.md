@@ -9,16 +9,16 @@ We will also learn the general principles of current Technical Writing, as expla
 
 ## Prerequisites
 -----------------
-* **Markdown knowledge**: You need to know how to use markdown. Don't know how to use Markdown? Check for Markdown tutorial under "More Resources".
-* **Resume:** You need to have an updated resume formatted in Markdown format. My sample Markdown formatted [resume]() can be found here.
-* **Github Profile**: You need to have a GitHub profile so that you can have upload your code and have the updated version of your files. Don't have a GitHub account? You can [sign-up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) for the GitHub account here.
+* **Markdown knowledge**: You need to know how to use markdown. Don't know how to use Markdown? Check for the Markdown tutorial under [More Resources](#more-resources).
+* **Resume:** You need to have an updated resume formatted in Markdown format. 
+* **GitHub Profile**: You need to have a GitHub profile so that you can upload your code and have the updated version of your files. Don't have a GitHub account? You can [sign-up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) for the GitHub account here.
 
 ## Instructions 
 -----------------
 ### **Markdown: Lightweight Markup Language**
->   Markdown is one of the best Lightweight markup language as it has the cleanest syntax incredible and infuriating, wonderful and maddening. Markdown does not have any defined standard and has limited set of features.[^1]
+>   Markdown is one of the best Lightweight markup language as it has the cleanest syntax incredible and infuriating, wonderful and maddening. Markdown does not have any defined standard and has a limited set of features.[^1]
 >
-> For more broad compatibility, we can use "vanilla" Markdown syntax but we cannot use the tables and denced code blocks in vanilla Markdown syntax. We can also change to a different flavour but we would need to make some changes to source files according to the new flavour.[^2]
+> For more broad compatibility, we can use "vanilla" Markdown syntax but we cannot use the tables and fenced code blocks in vanilla Markdown syntax. We can also change to a different flavour but we would need to make some changes to source files according to the new flavour.[^2]
 
 ### **Use Distributed Version Control** 
 > Distributed version control system (DVCS) allows us to work offline and have comparatively better performance. It also helps to work concurrently on the same set of files. All developers prefer using DVCS so it would be beneficial for the technical writers to use distributed version control system to work on documentations.[^3]
@@ -86,7 +86,8 @@ To view your own resume/file, please follow the steps below:
    3. Save changes and push it to the GitHub.  
    4. You can view your published website by going ```https://[github-name].github.io``` 
 
-![Resume](/giffy.gif)
+![](giffy.gif)
+
 #### **More Resources**
 1. [Markdown Tutorial](https://learnxinyminutes.com/docs/markdown/)
 2. [Etter's Book](https://www.goodreads.com/author/show/14827025.Andrew_Etter)
@@ -94,7 +95,7 @@ To view your own resume/file, please follow the steps below:
 
 ## Authors and Acknowledgements
 ---------------------------------
-The author of this README.md is [Mansimar Singh](https://github.com/mansimars).
+Authored by [Mansimar Singh](https://github.com/mansimars).
 
 I want to thank my group member of course COMP 3040 who reviewed my README file and helped me understand the concepts of Technical Communication.
 
