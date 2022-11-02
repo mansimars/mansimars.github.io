@@ -16,6 +16,7 @@ We will also learn the general principles of current Technical Writing, as expla
 ## Instructions 
 -----------------
 ### **Use Distributed Version Control** 
+> The Distributed 
 1. Go to [GitHub](https://github.com/) and create a new repository by clicking on *New* from the top-left of the screen.
 2. Name your repository as ```your-github-name.github.io```. 
     * For example: I created mine as ```mansimars.github.io```.
@@ -67,7 +68,7 @@ To view your own resume/file, please follow the steps below:
                 ---
       ```  
    3. Save changes and push it to the GitHub.  
-   4. You can view your published website by going ```[github-name].github.io``` 
+   4. You can view your published website by going ```https://[github-name].github.io``` 
 
 ![Resume](/giffy.gif)
 #### **More Resources**
