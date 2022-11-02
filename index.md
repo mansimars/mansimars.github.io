@@ -5,11 +5,9 @@ date:   2022-11-01 15:02:18 -0500
 categories: jekyll update
 ---
 
-## **Mansimar Singh Bhasin**
-999-999-9999                      
+## **Mansimar Singh Bhasin**            
 mansimars00@gmail.com \
-[github.com/mansimars](github.com/mansimars) \
-[linkedin.com/mansimars](linkedin.com/mansimars)
+[github.com/mansimars](https://github.com/mansimars) 
 
 ### **EDUCATION**
 ---
