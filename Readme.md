@@ -86,7 +86,8 @@ To view your own resume/file, please follow the steps below:
    3. Save changes and push it to the GitHub.  
    4. You can view your published website by going ```https://[github-name].github.io``` 
 
-![Resume](/giffy.gif)
+![](giffy.gif)
+
 #### **More Resources**
 1. [Markdown Tutorial](https://learnxinyminutes.com/docs/markdown/)
 2. [Etter's Book](https://www.goodreads.com/author/show/14827025.Andrew_Etter)
