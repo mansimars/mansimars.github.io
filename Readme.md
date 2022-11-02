@@ -47,13 +47,27 @@ You can also get more detailed Jekyll installation steps by following this [link
 
 3. **Create Jekyll site** \
 Type the following commands in the command prompt:
-   * Create Jekyll site: ```jekyll new [myblog]```
-   * Change to the specific directory: ```cd [myblog]```
-   * Building and making a site available on local server: ``` bundle exec jekyll serve```
-   * You can check the website at [http://localhost:4000](http://localhost:4000)
+   1. Create Jekyll site: ```jekyll new [myblog]``` in your repository folder,
+   2. Change to the specific directory: ```cd [myblog]```
+   3.  Building and making a site available on local server: ``` bundle exec jekyll serve```
+   4. You can check the website at [http://localhost:4000](http://localhost:4000)
 
 
-
+4. **Publish your resume/file** \
+To view your own resume/file, please follow the steps below:
+   1. Rename your resume/file to index.md.
+   2. Edit your index.md and add the command mentioned below at the top of index.md.
+      *  Also Change the date and time to current date and time in the command below.
+```yml
+                ---
+                layout: home
+                title:  "Resume"
+                date:   2022-11-01 15:02:18 -0500
+                categories: jekyll update
+                ---
+```  
+   3. Save changes and push it to the GitHub.  
+   4. You can view your published website by going ```[github-name].github.io``` 
 
 ![Resume](/giffy.gif)
 #### **More Resources**
