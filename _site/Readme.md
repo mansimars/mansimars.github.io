@@ -66,8 +66,8 @@ To view your own resume/file, please follow the steps below:
                 categories: jekyll update
                 ---
 ```  
-   3. Save changes and push it to the GitHub.  
-   4. You can view your published website by going ```[github-name].github.io``` 
+    3. Save changes and push it to the GitHub.  
+    4. 1. You can view your published website by going ```[github-name].github.io``` 
 
 ![Resume](/giffy.gif)
 #### **More Resources**
