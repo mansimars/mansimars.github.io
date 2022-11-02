@@ -5,7 +5,8 @@ date:   2022-11-01 15:02:18 -0500
 categories: jekyll update
 ---
 
-## **Mansimar Singh Bhasin**            
+## **Mansimar Singh Bhasin**    
+Winnipeg, MB \
 mansimars00@gmail.com \
 [github.com/mansimars](https://github.com/mansimars) 
 
