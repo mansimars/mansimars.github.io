@@ -10,13 +10,19 @@ We will also learn the general principles of current Technical Writing, as expla
 ## Prerequisites
 -----------------
 * **Markdown knowledge**: You need to know how to use markdown. Don't know how to use Markdown? Check for Markdown tutorial under "More Resources".
-* **Resume:** You need to have an updated resume formatted in markdown format. My sample markdown formatted [resume]() can be found here.
+* **Resume:** You need to have an updated resume formatted in Markdown format. My sample Markdown formatted [resume]() can be found here.
 * **Github Profile**: You need to have a GitHub profile so that you can have upload your code and have the updated version of your files. Don't have a GitHub account? You can [sign-up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) for the GitHub account here.
 
 ## Instructions 
 -----------------
 ### **Use Distributed Version Control** 
-> The Distributed 
+> According to Etter's book, Distributed version control system (DVCS) allows us to work offline and have comparatively better performance. It also helps to work concurrently on the same set of files. All developers prefer using DVCS so it would be beneficial for the technical writers to use distributed version control system to work on documentations.
+>
+> In addition to that, we do not need to to use ```git reflog``` if we are using DVCS for documentation purposes. 
+>
+> There are some benefits of storing documentation in the same repository of the souce code.
+> * The code and the documentation branches stay in sync.
+> * New developers have more probability to contribute as new developers do not need to clone a separate repository.
 1. Go to [GitHub](https://github.com/) and create a new repository by clicking on *New* from the top-left of the screen.
 2. Name your repository as ```your-github-name.github.io```. 
     * For example: I created mine as ```mansimars.github.io```.
@@ -38,6 +44,11 @@ We will also learn the general principles of current Technical Writing, as expla
 
 
 ### **Make Static Websites**
+> According to Etter's book, Static websites are simple, secure, fast and portable. Static websites does not have server-side application dependencies so need to rely to databases and don't need to install anything. Thus, we can migrate the entire websites easily. We can also host it on Amazon S3 and Github Pages.
+>
+> Not only that, we can test the static websites on our local machine without installing anything. Static websites are secure as there is nothing to crash if someone tries to hack it.
+>
+> We can use generators to make complex websites. We need to provide with content and a theme to make a complex website. 
 1. **Install Ruby**  \
 Download and Install Ruby to your local machine using this [link](https://www.ruby-lang.org/en/documentation/installation/). \
 You can install the specific Ruby installer depending on the operating system.
