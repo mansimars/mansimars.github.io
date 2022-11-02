@@ -94,7 +94,7 @@ To view your own resume/file, please follow the steps below:
 
 ## Authors and Acknowledgements
 ---------------------------------
-The author of this README.md is [Mansimar Singh](https://github.com/mansimars).
+Authored by [Mansimar Singh](https://github.com/mansimars).
 
 I want to thank my group member of course COMP 3040 who reviewed my README file and helped me understand the concepts of Technical Communication.
 
